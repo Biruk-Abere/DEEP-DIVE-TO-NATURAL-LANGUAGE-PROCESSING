@@ -1,1 +1,2 @@
 # DEEP-DIVE-TO-NATURAL-LANGUAGE-PROCESSING
+I've been writing comprehensive notes about Natural Language Processing (NLP) from various sources, including Stanford and MIT. The note cover a wide range of NLP concepts, including sequence modeling, word embeddings, recurrent neural networks, transformers, and their derived models like BERT and GPT. If you're interested in NLP or want to learn more about it, I highly recommend checking out these resources and I put them in Notion so you easily extend them. 
